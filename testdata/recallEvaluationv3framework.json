@@ -1,0 +1,7 @@
+[
+        {"question": "How many articles are there in the Selenium webdriver python course?",
+         "reference": "23"},
+         {"question": "What are the requirement for the course?",
+         "reference": "The course requires basic knowledge of Python programming and familiarity with web development concepts. It is also recommended to have some experience with Selenium WebDriver, although it is not mandatory."
+         }
+]
